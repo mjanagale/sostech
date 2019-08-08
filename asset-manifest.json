@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sostech/static/css/main.ad5b5347.chunk.css",
+    "main.js": "/sostech/static/js/main.cb49e6bd.chunk.js",
+    "main.js.map": "/sostech/static/js/main.cb49e6bd.chunk.js.map",
+    "runtime~main.js": "/sostech/static/js/runtime~main.81ed32f6.js",
+    "runtime~main.js.map": "/sostech/static/js/runtime~main.81ed32f6.js.map",
+    "static/css/2.cf8b194c.chunk.css": "/sostech/static/css/2.cf8b194c.chunk.css",
+    "static/js/2.3ae4f2e3.chunk.js": "/sostech/static/js/2.3ae4f2e3.chunk.js",
+    "static/js/2.3ae4f2e3.chunk.js.map": "/sostech/static/js/2.3ae4f2e3.chunk.js.map",
+    "index.html": "/sostech/index.html",
+    "precache-manifest.cae65d40d0af07f4edf3214a8bc9e049.js": "/sostech/precache-manifest.cae65d40d0af07f4edf3214a8bc9e049.js",
+    "service-worker.js": "/sostech/service-worker.js",
+    "static/css/2.cf8b194c.chunk.css.map": "/sostech/static/css/2.cf8b194c.chunk.css.map",
+    "static/css/main.ad5b5347.chunk.css.map": "/sostech/static/css/main.ad5b5347.chunk.css.map"
+  }
+}
